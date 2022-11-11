@@ -1,0 +1,52 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\1103_배포"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\es6"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\front_ws_06_3"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\1107_배포"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\9.module"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\vue_ws_02_3\\vue_ws_02_3"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\Vue\\vue_ws_03_3"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\vue_hw_04_2-master"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\Vue\\ws04"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\gigi_s"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\CLI"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\1110_배포\\1110_배포\\axios"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\1110_배포\\1110_배포\\VueApi"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\..\\..\\Users\\multicampus\\Downloads\\1110_배포\\1110_배포\\vue-router"
+	},
+	{
+		"path": "..\\.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "vue-router"
+  }
+}
